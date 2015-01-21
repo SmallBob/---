@@ -414,6 +414,7 @@
 				836E93A01A6D3C6100281FC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		836E93A11A6D3C6100281FC1 /* Build configuration list for PBXNativeTarget "季-集Tests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +423,7 @@
 				836E93A31A6D3C6100281FC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
